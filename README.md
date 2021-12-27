@@ -1,6 +1,6 @@
 ### Hi there, I'm Dennis 👋
 
-i am Software Engineer from Nigeria,Blockchain enthusiast,passionate about learning, building and teaching tech.
+I am Software Engineer from Nigeria,Blockchain enthusiast,passionate about learning, building and teaching tech.
 
 <!-- - 🔭 I’m currently working on [sku -->
 - 🌱 I’m currently learning nextjs.
