@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Dennis 👋
 
-<!--
-**DennisJunior247/dennisjunior247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer, Blockchain enthusiast from Nigeria. Passionate about learning, building and teaching tech.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on [sku -->
+- 🌱 I’m currently learning Web Accessibility practices and Getting better at React.
+- 💬 Ask me about Frontend Development, JavaScript, React, NextJS, GatsbyJS,Reactnative, maybe Node.
+- 📫 How to reach me:
+  - Website - [dennisjunior247.com](https://dennisjunior247.vercel.app/)
+  - Twitter - [@dennisjunior247](https://twitter.com/dennisjunior247)
+  - blog - [dennisjunior247.medium.com](https://dennisjunior247.medium.com/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact
+  - I love music(mostly afrobeat)!
+  - I love learning and teaching.
+  - I can't ride a biycicle 😄
