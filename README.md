@@ -9,7 +9,7 @@ I am Software Engineer from Nigeria,Blockchain enthusiast,passionate about learn
   - Website - [dennisjunior247.com](https://dennisjunior247.vercel.app/)
   - Twitter - [@dennisjunior247](https://twitter.com/dennisjunior247)
   - blog - [dennisjunior247.medium.com](https://dennisjunior247.medium.com/)
-  - email - [dennisjunior247@gmail.com](dennisjunior247@gmail.com)
+  - email - [dennisjunior247@gmail.com](/dennisjunior247@gmail.com)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact
