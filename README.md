@@ -6,7 +6,6 @@ I am Software Engineer from Nigeria,Blockchain enthusiast,passionate about learn
 - 🌱 I’m currently learning Vuejs.
 - 💬 Ask me about Frontend Development, JavaScript, React, NextJS, GatsbyJS, Reactnative, maybe Node.
 - 📫 How to reach me:
-  - Website - [dennisjunior247.com](https://dennisjunior247.vercel.app/)
   - Twitter - [@dennisjunior247](https://twitter.com/dennisjunior247)
   - blog - [dennisjunior247.medium.com](https://dennisjunior247.medium.com/)
   - email - [dennisjunior247@gmail.com](/dennisjunior247@gmail.com)
